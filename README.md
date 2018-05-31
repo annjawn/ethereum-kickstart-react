@@ -1,4 +1,4 @@
-# A Weather app written on React, Redux
+# A Kickstart Crowdfunding App written in React and Solidity Smart Contracts
 
 
 
